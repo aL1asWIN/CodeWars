@@ -1,2 +1,2 @@
 # CodeWars
-My Personal work through CodeWars problems
+My Personal work & solutions through CodeWars problems
